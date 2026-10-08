@@ -11,13 +11,13 @@ The package is the prebuilt Linux binary from Google, patched to run on NixOS
 Try it:
 
 ```
-nix run github:OWNER/agy-nix        # or: nix run .   in a checkout
+nix run github:mastratisi/agy-nix        # or: nix run .   in a checkout
 ```
 
 In a flake-based NixOS config:
 
 ```nix
-inputs.agy-nix.url = "github:OWNER/agy-nix";
+inputs.agy-nix.url = "github:mastratisi/agy-nix";
 # ...
 nixpkgs.overlays = [ agy-nix.overlays.default ];
 nixpkgs.config.allowUnfreePredicate = pkg: builtins.elem (lib.getName pkg) [ "antigravity-cli" ];

@@ -1,13 +1,13 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "platforms": {
     "linux-x64": {
-      "url": "https://storage.googleapis.com/antigravity-public/antigravity-cli/1.4.5-6505061359157248/linux-x64/cli_linux_x64.tar.gz",
-      "hash": "sha512-u/SuYDWaFH5jvt4lCqhAAJdpxdhm6W2XegHAU3XTrqNer3lLAYEsrpF6CZXNspKp6tLFWHDtAgX6oYygTk8oNg=="
+      "url": "https://storage.googleapis.com/antigravity-public/antigravity-cli/1.4.6-4856400178970624/linux-x64/cli_linux_x64.tar.gz",
+      "hash": "sha512-YkfNb0LsEOrw9H2SwpBzuJKsKRjpkcdfY13TdRxD570xcuavcWhjgIKFExg9/EKQmuQF0Mrd/RbbFterwcGXsg=="
     },
     "linux-arm": {
-      "url": "https://storage.googleapis.com/antigravity-public/antigravity-cli/1.4.5-6505061359157248/linux-arm/cli_linux_arm64.tar.gz",
-      "hash": "sha512-CswufGtlZ9mDIQoGpnBfH7FOsCkxblmXr2OR3FuuweQaRwDfKdaneqdlvyORSbvBmi23mUO2K1DzSGTQlrKabg=="
+      "url": "https://storage.googleapis.com/antigravity-public/antigravity-cli/1.4.6-4856400178970624/linux-arm/cli_linux_arm64.tar.gz",
+      "hash": "sha512-LHwhFatQOz9NO7jihTEdTLz/vGVRlHmxLDkRszDCSikdjgcZuwf0mnXZaoyTJF+xbbtZvkp16GgAjm6CalMglQ=="
     }
   }
 }
